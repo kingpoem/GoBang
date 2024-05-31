@@ -1,0 +1,14 @@
+﻿  Player.cpp
+C:\Users\13221\Downloads\GoBang(2)\GoBang(1)\GoBang\Player.cpp(19,19): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\13221\Downloads\GoBang(2)\GoBang(1)\GoBang\Player.cpp(19,23): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\13221\Downloads\GoBang(2)\GoBang(1)\GoBang\Player.cpp(20,16): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\13221\Downloads\GoBang(2)\GoBang(1)\GoBang\Player.cpp(20,20): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\13221\Downloads\GoBang(2)\GoBang(1)\GoBang\Player.cpp(29,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\13221\Downloads\GoBang(2)\GoBang(1)\GoBang\Player.cpp(30,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\13221\Downloads\GoBang(2)\GoBang(1)\GoBang\Player.cpp(40,19): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\13221\Downloads\GoBang(2)\GoBang(1)\GoBang\Player.cpp(40,23): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\13221\Downloads\GoBang(2)\GoBang(1)\GoBang\Player.cpp(41,16): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\13221\Downloads\GoBang(2)\GoBang(1)\GoBang\Player.cpp(41,20): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\13221\Downloads\GoBang(2)\GoBang(1)\GoBang\Player.cpp(50,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\13221\Downloads\GoBang(2)\GoBang(1)\GoBang\Player.cpp(51,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  GoBang.vcxproj -> C:\Users\13221\Downloads\GoBang(2)\GoBang(1)\GoBang\x64\Debug\GoBang.exe
